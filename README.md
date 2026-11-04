@@ -15,3 +15,5 @@ A command-line application for managing a grocery list with price tracking, data
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ## Video Demo
+[Watch Project 2 Demo](https://youtu.be/H2rdvPI9ZKw)
